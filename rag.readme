@@ -1,0 +1,28 @@
+# 🧠 RAG Document Assistant
+
+A simple **Retrieval-Augmented Generation (RAG)** chatbot built using **Python, Gradio, and OpenAI API**.  
+This assistant can read and answer questions about your documents intelligently using embeddings and vector search.
+
+---
+
+## 🚀 Features
+- 📂 Upload any document (PDF, TXT)
+- 💬 Ask context-aware questions
+- 🧩 Uses **FAISS** (or Chroma) for vector storage
+- 🧠 Powered by **OpenAI GPT-4**
+- 🎨 Built with **Gradio** for an interactive web UI
+
+---
+
+## 🧰 Tech Stack
+- **Python 3.10+**
+- **Gradio** — for the web interface
+- **LangChain** — for RAG pipeline
+- **FAISS / Chroma** — for vector embeddings
+- **OpenAI API** — for GPT-powered responses
+
+---
+
+
+
+
