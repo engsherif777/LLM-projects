@@ -1,1 +1,1 @@
-This is a repository for my related LLM projects. 
+This is a repository for my related LLM projects that I made.
